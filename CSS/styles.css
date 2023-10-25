@@ -13,6 +13,7 @@ body{
     background-image: url(../Img/bground.jpg);
     font-family: 'Mooli', sans-serif;
     font-family: 'Playpen Sans', cursive;
+    
 
 
 }
@@ -27,13 +28,13 @@ nav{
 
 input, select{
     display: block;
-    width: 120px;
+    width: 100px;
     height: 25px;
     
 }
 
 label{
-    font-size: 1.3rem;
+    font-size: 1.1rem;
 }
 
 .container{
@@ -42,7 +43,7 @@ label{
     width: 700px;
     margin-top: 50px;
     position: relative;
-    font-size: 2rem;
+    font-size: 1.5rem;
     align-items: center;
     gap: 20px;
     background-color: rgb(190, 201, 211);
@@ -65,7 +66,7 @@ label{
 }
 
 #h1font{
-    font-size: 2.9rem;
+    font-size: 1.9rem;
 }
 
 .right{
@@ -77,12 +78,12 @@ label{
 }
  
 .fit{
-    font-size: 1.8rem;
+    font-size: 1.3rem;
 }
 
 li:hover{
     transition: 0.8s;
-    font-size: 3.5rem;
+    font-size: 2.8rem;
     color: aliceblue;
     
     
